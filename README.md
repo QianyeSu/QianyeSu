@@ -6,7 +6,7 @@ src="https://img.shields.io/github/followers/SQYQianYe?style=social" alt="SQYQia
 src="https://img.shields.io/github/last-commit/SQYQianYe/SQYQianYe" alt="SQYQianYe
 " />  </p>
 
-# 👋 Hi, I’m Qianye Su, welcome to my channel
+# 👋 Hi, I’m Qianye Su, welcome to my Github
 
 ```javascript
 const Qianye Su = {
