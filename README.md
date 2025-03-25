@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 #### 😄 Pronouns: He/Him
 #### 💬 I'm happy to answer any questions about the Hadley Circulation.
 
-![Shell](https://img.shields.io/badge/-Spring-000?&logo=Shell)
+# ![Shell](https://img.shields.io/badge/-Spring-000?&logo=Shell)
 ## ⚙️ &nbsp;GitHub Analytics
 | My Github Stats | Programming Languages I use |
 | --- | --- |
