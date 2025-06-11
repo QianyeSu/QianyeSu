@@ -14,8 +14,8 @@ const Qianye Su = {
     location: ["Zhanjiang, China"],
     contact: ["suqianye2000@gmail.com"],
     collaborations: ["palaeoclimate", "machine learning", "tropical atmospheric dynamics"],
-    studyingOn: ["Master's student at Guangdong Ocean University..."],
-    learning: ["python", "ncl", "matlab", "Shell", "Javascript"],
+    studyingOn: ["Phd student at Guangdong Ocean University..."],
+    learning: ["Python", "ncl", "matlab", "Shell", "Javascript"],
     askMeAbout: ["Hadley circulation"，"tropical atmospheric dynamics"，"CESM"],
     hobbies: {
         major: {
