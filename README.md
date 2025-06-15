@@ -60,9 +60,9 @@ const Qianye Su = {
 </p>
 -->
 
-![Isometric calendar](https://github.com/QianyeSu/assets/metrics.plugin.isocalendar.fullyear.svg)
 <p align="center">
- <img width="1000" src="assets/snake.svg" alt="snake"/>
+  <img width="800" src="assets/metrics.plugin.isocalendar.fullyear.svg" alt="Isometric calendar"/>
+  <img width="800" src="assets/snake.svg" alt="snake"/>
 </p>
 
 <!--
