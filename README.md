@@ -38,23 +38,29 @@ const Qianye Su = {
 
 ## ⚙️ &nbsp;GitHub Analytics
 
+<div align="center">
+  <a href="https://github.com/QianyeSu">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=QianyeSu&show_icons=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QianyeSu&hide_border=true&layout=compact"/>
+  </a>
+</div>
+
+<!--
 <p>
   <br>
   <a href="https://github.com/QianyeSu">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=QianyeSu&show_icons=true&hide_border=true"/><!-- wi*quL3fcV --><img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=QianyeSu&hide_border=true&layout=compact" />
-    
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=QianyeSu&show_icons=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=QianyeSu&hide_border=true&layout=compact" />
   </a>
   <br>
-	
-  ----
-<!--	
   <br>
   <a href="https://github.com/QianyeSu">
       <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=QianyeSu&hide_border=true"/>  
   </a> 
-  -->
 </p>
+-->
 
+![Isometric calendar](https://github.com/QianyeSu/assets/metrics.plugin.isocalendar.fullyear.svg)
 <p align="center">
  <img width="1000" src="assets/snake.svg" alt="snake"/>
 </p>
