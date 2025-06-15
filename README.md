@@ -23,12 +23,9 @@ const Qianye Su = {
 	    outdoor: ["traveling"],
         },
         funFact: {
-            secret: ["I freaking love music", "dogs"],
-        }        
-    }
-};
+            secret: ["I freaking love music", "dogs"],}}};
 ```
-
+<!--
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -36,7 +33,7 @@ const Qianye Su = {
 ![NCL](https://img.shields.io/badge/NCL-green?&logo=NCL)
 ![Matlab](https://img.shields.io/badge/matlab-orange?&logo=Matlab)
 ![Shell](https://img.shields.io/badge/-Shell-blue?logo=Shell)
-
+-->
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div align="center">
