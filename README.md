@@ -1,9 +1,9 @@
-[![](https://raw.githubusercontent.com/SQYQianYe/SQYQianYe/master/profile.gif)](https://github.com/SQYQianYe/)<!-- If you want the template for my gif, email me! -->
+[![](https://raw.githubusercontent.com/QianyeSu/QianyeSu/master/profile.gif)](https://github.com/QianyeSu/)<!-- If you want the template for my gif, email me! -->
 <!--<p align="center"> <img src="#" /> </p>
 <p align="center"> <img src="#" /> </p>-->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=SQYQianYe&logoColor=white&color=FFDE59" alt="SQYQianYe" /> <img
-src="https://img.shields.io/github/followers/SQYQianYe?style=social" alt="SQYQianYe" /> <img
-src="https://img.shields.io/github/last-commit/SQYQianYe/SQYQianYe" alt="SQYQianYe
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=QianyeSu&logoColor=white&color=FFDE59" alt="QianyeSu" /> <img
+src="https://img.shields.io/github/followers/QianyeSu?style=social" alt="QianyeSu" /> <img
+src="https://img.shields.io/github/last-commit/QianyeSu/QianyeSu" alt="QianyeSu
 " />  </p>
 
 # 👋 Hi, I’m Qianye Su, welcome to my Github
@@ -40,8 +40,8 @@ const Qianye Su = {
 
 <p>
   <br>
-  <a href="https://github.com/SQYQianYe">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SQYQianYe&show_icons=true&hide_border=true"/><!-- wi*quL3fcV --><img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SQYQianYe&hide_border=true&layout=compact" />
+  <a href="https://github.com/QianyeSu">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=QianyeSu&show_icons=true&hide_border=true"/><!-- wi*quL3fcV --><img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=QianyeSu&hide_border=true&layout=compact" />
     
   </a>
   <br>
@@ -49,20 +49,21 @@ const Qianye Su = {
   ----
 	
   <br>
-  <a href="https://github.com/SQYQianYe">
-      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SQYQianYe&hide_border=true"/>  
+  <a href="https://github.com/QianyeSu">
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=QianyeSu&hide_border=true"/>  
   </a> 
 </p>
+
 
 ## ⚙️ &nbsp;Activity
 | Activity time | Commit time |
 | --- | --- |
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SQYQianYe&theme=github)  | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SQYQianYe&theme=github) |
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QianyeSu&theme=github)  | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=QianyeSu&theme=github) |
 
 
 
 <!--
-**SQYQianYe/SQYQianYe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**QianyeSu/QianyeSu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 #### 💬 Ask me about anything related to atmosphere science.
 #### ⚡ I'm happy to answer any questions about the Hadley Circulation.
 Here are some ideas to get you started:
@@ -79,9 +80,9 @@ Here are some ideas to get you started:
 ## ⚙️ &nbsp;GitHub Analytics
 | My Github Stats | Programming Languages I use |
 | --- | --- |
-| ![ github stats](https://github-readme-stats.vercel.app/api?username=SQYQianYe&show_icons=true&title_color=0099ff&icon_color=0099ff&text_color=333333&bg_color=ffffff&count_private=true) | ![ top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SQYQianYe&show_icons=true&title_color=0099ff&icon_color=0099ff&text_color=333333&bg_color=ffffff&count_private=true&layout=compact) |
+| ![ github stats](https://github-readme-stats.vercel.app/api?username=QianyeSu&show_icons=true&title_color=0099ff&icon_color=0099ff&text_color=333333&bg_color=ffffff&count_private=true) | ![ top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QianyeSu&show_icons=true&title_color=0099ff&icon_color=0099ff&text_color=333333&bg_color=ffffff&count_private=true&layout=compact) |
 | Activity time | Commit time |
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SQYQianYe&theme=github)  | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SQYQianYe&theme=github) |
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QianyeSu&theme=github)  | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=QianyeSu&theme=github) |
 
 ## ⚙️ &nbsp;Activity time
 
