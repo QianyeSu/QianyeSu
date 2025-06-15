@@ -10,8 +10,6 @@ src="https://img.shields.io/github/last-commit/QianyeSu/QianyeSu" alt="QianyeSu
 
 ```javascript
 const Qianye Su = {
-    pronouns: "he" | "him",
-    location: ["Zhanjiang, China"],
     contact: ["suqianye2000@gmail.com"],
     collaborations: ["palaeoclimate", "machine learning", "tropical atmospheric dynamics"],
     studyingOn: ["Phd student at Guangdong Ocean University..."],
@@ -23,7 +21,10 @@ const Qianye Su = {
 	    outdoor: ["traveling"],
         },
         funFact: {
-            secret: ["I freaking love music", "dogs"],}}};
+            secret: ["I freaking love music", "dogs"],
+		}
+     }
+};
 ```
 <!--
 ### Languages
