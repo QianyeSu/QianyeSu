@@ -47,19 +47,24 @@ const Qianye Su = {
   <br>
 	
   ----
-	
+<!--	
   <br>
   <a href="https://github.com/QianyeSu">
       <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=QianyeSu&hide_border=true"/>  
   </a> 
+  -->
 </p>
 
+<p align="center">
+ <img width="1000" src="assets/snake.svg" alt="snake"/>
+</p>
 
+<!--
 ## ⚙️ &nbsp;Activity
 | Activity time | Commit time |
 | --- | --- |
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QianyeSu&theme=github)  | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=QianyeSu&theme=github) |
-
+-->
 
 
 <!--
