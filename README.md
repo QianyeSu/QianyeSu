@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/QianyeSu/QianyeSu/master/profile.gif)](https://github.com/QianyeSu/)<!-- If you want the template for my gif, email me! -->
+[![](https://raw.githubusercontent.com/QianyeSu/QianyeSu/master/profile2.gif)](https://github.com/QianyeSu/)<!-- If you want the template for my gif, email me! -->
 <!--<p align="center"> <img src="#" /> </p>
 <p align="center"> <img src="#" /> </p>-->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=QianyeSu&logoColor=white&color=FFDE59" alt="QianyeSu" /> <img
