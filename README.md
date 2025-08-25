@@ -13,7 +13,7 @@ const Qianye Su = {
     contact: ["suqianye2000@gmail.com"],
     collaborations: ["palaeoclimate", "machine learning", "tropical atmospheric dynamics"],
     studyingOn: ["Phd student at Guangdong Ocean University..."],
-    learning: ["Python", "NCL", "matlab", "Fortran", "Shell", "Javascript", "CSS", "HTML", "Latex"],
+    learning: ["Python", "NCL", "matlab", "Fortran", "C++", "Javascript", "CSS", "HTML", "Latex"],
     askMeAbout: ["Hadley circulation"，"tropical atmospheric dynamics"，"CESM"],
     hobbies: {
         major: {
