@@ -21,7 +21,7 @@ const Qianye Su = {
 	    outdoor: ["traveling"],
         },
         funFact: {
-            secret: ["I freaking love music", "dogs"],
+            secret: ["I freaking love music", "dogs", "cats"],
 		}
             }
         };
