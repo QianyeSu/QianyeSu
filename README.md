@@ -76,12 +76,20 @@ const Qianye Su = {
   <br>
   <a href="https://github.com/QianyeSu">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=QianyeSu&show_icons=true&hide_border=true"/>
+<<<<<<< HEAD
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QianyeSu&hide_border=true&layout=compact" />
+=======
+    <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=QianyeSu&hide_border=true&layout=compact" />
+>>>>>>> 52fa22a353782a8922a6034ed4d66d724c8d0acf
   </a>
   <br>
   <br>
   <a href="https://github.com/QianyeSu">
+<<<<<<< HEAD
       <img height="180em" src="https://streak-stats.demolab.com/?user=QianyeSu&hide_border=true"/>  
+=======
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=QianyeSu&hide_border=true"/>  
+>>>>>>> 52fa22a353782a8922a6034ed4d66d724c8d0acf
   </a> 
 </p>
 -->
