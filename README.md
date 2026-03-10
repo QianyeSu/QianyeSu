@@ -9,7 +9,7 @@ src="https://img.shields.io/github/last-commit/QianyeSu/QianyeSu" alt="QianyeSu
 # 👋 Hi, I’m Qianye Su, welcome to my Github
 
 ```javascript
-const QianyeSu = {
+const Qianye Su = {
     contact: ["suqianye2000@gmail.com"],
     collaborations: ["palaeoclimate", "machine learning", "tropical atmospheric dynamics"],
     studyingOn: ["Phd student at Guangdong Ocean University..."],
